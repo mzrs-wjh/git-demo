@@ -6,3 +6,5 @@ hello git!
 hello git!
 hello git!
 hello git! I am master forth!
+hello git! hot-fix
+>>>>>>> hot-fix
